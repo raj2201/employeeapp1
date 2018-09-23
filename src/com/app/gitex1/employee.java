@@ -6,7 +6,7 @@ public class employee {
 	private String ename;
 	private String eaddr;
 	public employee(int eid, String ename, String eaddr) {
-		super();
+
 		this.eid = eid;
 		this.ename = ename;
 		this.eaddr = eaddr;
